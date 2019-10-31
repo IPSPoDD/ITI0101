@@ -46,7 +46,7 @@ If you are tired click  <a href="https://www.youtube.com/watch?v=DXUAyRRkI6k"> H
         </tr>
         </table> 
 <br>
-<img url="http://shpargalkaege.ru/wp-content/uploads/2015/05/OGE-1.jpg" alt="Formulas" style="width:50%">
+<img src="http://shpargalkaege.ru/wp-content/uploads/2015/05/OGE-1.jpg" alt="Formulas" style="width:50%">
 
 </body>
 
