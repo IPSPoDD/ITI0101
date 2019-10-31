@@ -23,7 +23,7 @@ If you want something<a href="http://www.diskmat.ee/"> harder</a> or <a href=" h
 If you are tired click  <a href="https://www.youtube.com/watch?v=DXUAyRRkI6k"> HERE.</a>
 </p>
 
-<table style="width:50%" border="2">
+<table style="width:400px;" border="2">
         <tr>
             <th>Shape</th>
             <th>Area</th>
